@@ -41,6 +41,8 @@
     ]
   },
   "devDependencies": {
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "faker": "^5.5.3",
     "prettier": "^2.3.2"
   }
 }
